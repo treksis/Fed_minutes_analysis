@@ -1,4 +1,4 @@
-<h1>FOMC mintues analysis</h1>
+<h1>*FOMC mintues analysis*</h1>
 
 1. Scrap FOMC minutes from the year 2016 to 2021.
 
@@ -20,17 +20,17 @@
 - Display 20 most frequently addressed bigrams and trigrams of full texts
 - Display 8 most freqnetly addresed bigrams and trigrams of sections.
 
-![Alt text](img\bigram_fulltext_latest_minutes.png?raw=true "bigram_fulltext")
+![bigram_fulltext](img\bigram_fulltext_latest_minutes.png)
 
 -----
 
-![Alt text](img\bigram_staff_opinions_minutes.png?raw=true "bigram_fulltext")
+![bigram_fulltext](img\bigram_staff_opinions_minutes.png)
 
 -----
 
-![Alt text](img\trigram_fulltext_latest_minutes.png?raw=true "bigram_fulltext")
+![bigram_fulltext](img\trigram_fulltext_latest_minutes.png)
 
 -----
 
-![Alt text](img\trigram_staff_opinions_minutes.png?raw=true "bigram_fulltext")
+![bigram_fulltext](img\trigram_staff_opinions_minutes.png)
 
