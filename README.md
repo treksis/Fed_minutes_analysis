@@ -4,7 +4,7 @@
 
 2. Clean up FOMC minutes text into JSON format. 
 
-Headers of file are following:
+<h3>Headers of file are following:</h3>
 
 - 'Developments in Financial Markets and Open Market Operations'
 - 'Staff Review of the Economic Situation'
@@ -20,7 +20,17 @@ Headers of file are following:
 - Display 20 most frequently addressed bigrams and trigrams of full texts
 - Display 8 most freqnetly addresed bigrams and trigrams of sections.
 
-![alt text](img\bigram_fulltext_latest_minutes.png)
-![alt text](img\bigram_staff_opinions_minutes.png)
-![alt text](img\trigram_fulltext_latest_minutes.png)
-![alt text](img\trigram_staff_opinions_minutes.png)
+![Alt text](img\bigram_fulltext_latest_minutes.png?raw=true "bigram_fulltext")
+
+-----
+
+![Alt text](img\bigram_staff_opinions_minutes.png?raw=true "bigram_fulltext")
+
+-----
+
+![Alt text](img\trigram_fulltext_latest_minutes.png?raw=true "bigram_fulltext")
+
+-----
+
+![Alt text](img\trigram_staff_opinions_minutes.png?raw=true "bigram_fulltext")
+
