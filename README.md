@@ -1,10 +1,10 @@
-<h1>*FOMC mintues analysis*</h1>
+<h1>FOMC mintues analysis</h1>
 
 1. Scrap FOMC minutes from the year 2016 to 2021.
 
 2. Clean up FOMC minutes text into JSON format. 
 
-<h3>Headers of file are following:</h3>
+    Headers of file are following:
 
 - 'Developments in Financial Markets and Open Market Operations'
 - 'Staff Review of the Economic Situation'
@@ -20,17 +20,17 @@
 - Display 20 most frequently addressed bigrams and trigrams of full texts
 - Display 8 most freqnetly addresed bigrams and trigrams of sections.
 
-![bigram_fulltext](\img\bigram_fulltext_latest_minutes.png)
+![bigram_fulltext](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_fulltext_latest_minutes.png)
 
 -----
 
-![bigram_charts](\img\bigram_staff_opinions_minutes.png)
+![bigram_charts](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_staff_opinions_minutes.png)
 
 -----
 
-![trigram_fulltext](\img\trigram_fulltext_latest_minutes.png)
+![trigram_fulltext](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_fulltext_latest_minutes.png)
 
 -----
 
-![trigram_charts](\img\trigram_staff_opinions_minutes.png)
+![trigram_charts](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_staff_opinions_minutes.png)
 
