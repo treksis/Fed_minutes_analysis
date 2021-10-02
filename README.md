@@ -19,32 +19,28 @@
 - Committee Policy Action section is removed from the process because it is the duplicate of FOMC statement.
 - Display 20 most frequently addressed bigrams and trigrams of full texts
 - Display 8 most frequently addresed bigrams and trigrams of sections.
-- Sample image of the July 2021 FOMC minutes
+- Sample charts of the July 2021 FOMC minutes
 
-![bigram_fulltext](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_fulltext_latest_minutes.png)
-
------
-
-![bigram_charts](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_staff_opinions_minutes.png)
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_fulltext_latest_minutes.png" width=50% height=50%>
 
 -----
-
-![trigram_fulltext](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_fulltext_latest_minutes.png)
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_staff_opinions_minutes.png" width=50% height=50%>
 
 -----
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_fulltext_latest_minutes.png" width=50% height=50%>
 
-![trigram_charts](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_staff_opinions_minutes.png)
+-----
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_staff_opinions_minutes.png" width=50% height=50%>
 
 4. Conduct bigram and trigram extraction from 2016 to 2021.
 
 - Display the top 5 most frequently addressed bigrams and triagrms in yearly basis.
 
-- Sample image of the year 2020. 
+- Sample charts of the year 2020. 
 
 -----
-
-![bigram_2020](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_bigram.png)
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_bigram.png" width=80% height=80%>
 
 -----
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_trigram.png" width=80% height=80%>
 
-![trigram_2020](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_trigram.png)
