@@ -15,10 +15,11 @@
 
 3. Conduct bigram and trigram analysis on the text sets.
 
-- Developments in Financial Market section is deleted due to the fact that it does not contain any opinions of policymakers. 
-- Committee Policy Action section is deleted from the process because it is the duplicate of FOMC statement.
+- Developments in Financial Market section is removed due to the fact that it does not contain any opinions of policymakers. 
+- Committee Policy Action section is removed from the process because it is the duplicate of FOMC statement.
 - Display 20 most frequently addressed bigrams and trigrams of full texts
-- Display 8 most freqnetly addresed bigrams and trigrams of sections.
+- Display 8 most frequently addresed bigrams and trigrams of sections.
+- Sample image of the July 2021 FOMC minutes
 
 ![bigram_fulltext](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/bigram_fulltext_latest_minutes.png)
 
@@ -34,3 +35,16 @@
 
 ![trigram_charts](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_staff_opinions_minutes.png)
 
+4. Conduct bigram and trigram extraction from 2016 to 2021.
+
+- Display the top 5 most frequently addressed bigrams and triagrms in yearly basis.
+
+- Sample image of the year 2020. 
+
+-----
+
+![bigram_2020](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_bigram.png)
+
+-----
+
+![trigram_2020](https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_trigram.png)
