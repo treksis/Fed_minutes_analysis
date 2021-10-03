@@ -44,3 +44,16 @@
 -----
 <img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_trigram.png" width=80% height=80%>
 
+5. Bigram and Trigram extractions from 2016 to 2021 by sections.
+
+- Display the top 5 most frequently addressed bigrams and trigrams of four different section of the text.
+
+- Smaple charts of the year 2020.
+
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_review_finance_bigram.png">
+-----
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_review_econ_bigram.png">
+-----
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_outlook_bigram.png">
+-----
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_participatns_views_bigram.png">
