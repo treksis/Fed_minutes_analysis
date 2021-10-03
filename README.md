@@ -50,10 +50,10 @@
 
 - Smaple charts of the year 2020.
 
-<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_review_finance_bigram.png">
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_review_finance_bigram.png" width=80% height=80%>
 -----
-<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_review_econ_bigram.png">
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_review_econ_bigram.png" width=80% height=80%>
 -----
-<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_outlook_bigram.png">
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_outlook_bigram.png" width=80% height=80%>
 -----
-<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_participatns_views_bigram.png">
+<img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_participatns_views_bigram.png" width=80% height=80%>
