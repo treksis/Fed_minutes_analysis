@@ -1,5 +1,7 @@
 <h1>FOMC mintues analysis</h1>
 
+The purpose of this project is to visualize factors that are addressed the most by Federal Reserve from the year 2016 to 2021. FOMC minutes is released two weeks after the official statement. FOMC minutes is considered as a lagging indicator, where it is used to confirm long-term trends rather than for prediction. 
+
 1. Scrap FOMC minutes from the year 2016 to 2021.
 
 2. Clean up FOMC minutes text into JSON format. 
@@ -57,3 +59,4 @@
 <img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_staff_outlook_bigram.png" width=80% height=80%>
 -----
 <img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_participatns_views_bigram.png" width=80% height=80%>
+
