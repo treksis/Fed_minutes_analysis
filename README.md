@@ -1,6 +1,12 @@
 <h1>FOMC mintues analysis</h1>
 
+Here is the link of my blog.
+
+https://macrotazza.wordpress.com/2021/10/04/n-gram-analysis-on-fomc-minutes/
+
+
 The purpose of this project is to visualize factors that are addressed the most by Federal Reserve from the year 2016 to 2021. FOMC minutes is released two weeks after the official statement. FOMC minutes is considered as a lagging indicator, where it is used to confirm long-term trends rather than for prediction. 
+
 
 1. Scrap FOMC minutes from the year 2016 to 2021.
 
@@ -15,7 +21,7 @@ The purpose of this project is to visualize factors that are addressed the most 
 - "Participants' Views on Current Economic Conditions and the Economic Outlook"
 - 'Committee Policy Action'
 
-3. Conduct bigram and trigram analysis on the text sets.
+3. Extract monogram, bigram and trigram on the text sets.
 
 - Developments in Financial Market section is removed due to the fact that it does not contain any opinions of policymakers. 
 - Committee Policy Action section is removed from the process because it is the duplicate of FOMC statement.
@@ -34,7 +40,7 @@ The purpose of this project is to visualize factors that are addressed the most 
 -----
 <img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/trigram_staff_opinions_minutes.png" width=50% height=50%>
 
-4. Conduct bigram and trigram extraction from 2016 to 2021.
+4. Extract monogram, bigram and trigram from the year 2016 to 2021.
 
 - Display the top 5 most frequently addressed bigrams and triagrms in yearly basis.
 
@@ -46,7 +52,7 @@ The purpose of this project is to visualize factors that are addressed the most 
 -----
 <img src="https://github.com/treksis/Fed_minutes_analysis/blob/main/img/2020_trigram.png" width=80% height=80%>
 
-5. Bigram and Trigram extractions from 2016 to 2021 by sections.
+5. Monogram, Bigram and Trigram extractions from 2016 to 2021 by sections.
 
 - Display the top 5 most frequently addressed bigrams and trigrams of four different section of the text.
 
